@@ -1,0 +1,16 @@
+{
+  "name": "pakph/service",
+  "type": "cms",
+  "autoload": {
+    "psr-4": {
+      "Pakph\\Service\\": "api/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Pakphom Promsean",
+      "email": "mcast31mcast31@gmail.com"
+    }
+  ],
+  "require": {}
+}
